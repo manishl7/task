@@ -1,8 +1,5 @@
-Task has been completed using different libraries to showcase my familiarity with all the NLP libraries.
-Directed graph has been created using two methods i.e networkx and neo4j
-question_6.py = File that was uploaded before the deadline
-question_6_revised.py = Uploaded today as I faced issues with indexing no question_6.py yesterday and I couldn't ask full questions or get a fully reply on the same.
-It was only able to ansnwer if I gave only a subject else it wouldn't answer. However that issue has been resolved in question_6_revised.py
-
-
+Task has been completed using different libraries to showcase my familiarity with the various NLP libraries.
+Directed graph has been created using methods such as networkx and neo4j to show my familiarity with these methods.
+question_6.py is the file that was uploaded before the deadline and 
+question_6_revised.py is the file that has been uploaded today. The reason behind this was that I was not able to get a fully functioning reply on the former solution. If i mentioned a specific subject , It would give the reply but I wan't able to ask a full question. I thought the issue was with indexing and I browsed almost every conceivable source trying to find the solution. The same has been resolved now.
 
